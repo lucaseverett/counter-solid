@@ -1,0 +1,4 @@
+{
+  "presets": ["@babel/preset-env", "solid"],
+  "plugins": ["transform-inline-environment-variables", "emotion"]
+}
